@@ -38,7 +38,7 @@ Step 4: The final step is to open Eclipse and switch your workspace to /eclipse/
 
 If at any point you are missing libraries in your IDE, or you've run into problems you can run "gradlew --refresh-dependencies" to refresh the local cache. "gradlew clean" to reset everything {this does not affect your code} and then start the processs again.
 
-Should it still not work, 
+Should it still not work,
 Refer to #ForgeGradle on EsperNet for more information about the gradle environment.
 
 Tip:
